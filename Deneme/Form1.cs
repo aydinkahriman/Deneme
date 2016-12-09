@@ -25,6 +25,8 @@ namespace Deneme
             string s = "43.23";
             double d;
             MessageBox.Show(double.TryParse(s, NumberStyles.AllowDecimalPoint, CultureInfo.InvariantCulture, out d).ToString());
+
+            //changejasndkasldklsam
         }
     }
 }
